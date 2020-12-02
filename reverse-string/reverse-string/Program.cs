@@ -30,6 +30,7 @@ namespace reverse_string
                 index--;
             }
 
+
             return reversed.ToString();
         }
     }
